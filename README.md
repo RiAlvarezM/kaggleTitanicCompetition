@@ -1,15 +1,11 @@
 # Proyecto Titanic de Kaggle
-## Description
-This project is my submission for the "Titanic - Machine Learning from Disaster" competition on Kaggle. The goal is to predict the survival of passengers on the Titanic based on a dataset containing information such as age, gender, ticket class, and other factors.
+## Descripción
+Este proyecto es mi envío para la competencia "Titanic - Machine Learning from Disaster" en Kaggle. El objetivo es predecir la supervivencia de los pasajeros del Titanic basándonos en un conjunto de datos que contiene información como la edad, el sexo, la clase del boleto y otros factores.
 
-This project demonstrates my proficiency in:
+Este proyecto demuestra mi dominio en:
 
-- Data Analysis: Experience in exploring, cleaning, and visualizing data using libraries like Pandas, Matplotlib, and Seaborn.
+- Data Analytics: Experiencia en la exploración, limpieza y visualización de datos utilizando bibliotecas como Pandas, Matplotlib y Seaborn.
 
-- Feature Engineering: Ability to design and construct new features from existing data to optimize model performance.
+- Feature Engineering: Habilidad para diseñar y construir nuevas características a partir de los datos existentes para optimizar el rendimiento del modelo.
 
-- Machine Learning Modeling: Capacity to train and evaluate various classification models (e.g., Logistic Regression, Decision Trees, Random Forest, Gradient Boosting) using Scikit-learn.
-
-- Model Optimization: Skill in hyperparameter tuning to enhance model accuracy and efficiency.
-
-- Communication: Effective presentation of findings and methodologies through this README.
+- Machine Learning: Capacidad para entrenar y evaluar varios modelos de clasificación (por ejemplo, Regresión Logística, Árboles de Decisión, Random Forest, Gradient Boosting) utilizando Scikit-learn.
